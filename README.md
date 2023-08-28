@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soorena Salari</h1>
-<h3 align="center">I am currently a PhD student at Concordia University. I am interested in Medical Image processing with Deep Learning and Machine Learning. Currently, my research is focused on the study of automatic image registration quality assessment using self-supervised learning and uncertainty quantification. I am interested in both the theoretical and applied studies of these domains. Please email me if you want to collaborate with me or have any questions. Thank you 😊</h3>
+<h3 align="center">I am a PhD student at Concordia University. I am interested in Medical Image processing with Deep Learning and Machine Learning. Currently, my research is focused on the study of automatic image registration quality assessment using self-supervised learning and uncertainty quantification. I am interested in both the theoretical and applied studies of these domains. Please email me if you want to collaborate with me or have any questions. Thank you 😊</h3>
 
 - 📫 How to reach me **soorena.salari374@gmail.com**
 
